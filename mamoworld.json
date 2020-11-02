@@ -1,0 +1,40 @@
+{
+  "generatedBy": "mamoworldJSON",
+  "create-3": {
+    "Objectives": {
+      "Text": {
+        "Source Text": "Objectives"
+      }
+    },
+    "Increase Sales": {
+      "Text": {
+        "Source Text": "Increase Sales"
+      }
+    },
+    "Remarketing": {
+      "Text": {
+        "Source Text": "Remarketing"
+      }
+    },
+    "Increase Website Traffic": {
+      "Text": {
+        "Source Text": "Increase Website Traffic"
+      }
+    },
+    "Built Brand Awareness": {
+      "Text": {
+        "Source Text": "Built Brand Awareness"
+      }
+    },
+    "Increase App Install": {
+      "Text": {
+        "Source Text": "Increase App Install"
+      }
+    },
+    "Select Objective": {
+      "Text": {
+        "Source Text": "Select Objective"
+      }
+    }
+  }
+}
